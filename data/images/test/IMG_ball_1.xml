@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Desktop</folder>
+  <filename>IMG_20210115_225222</filename>
+  <path>C:/Users/Raghav/Desktop/IMG_20210115_225222.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4000</width>
+    <height>3000</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1200</xmin>
+      <ymin>1050</ymin>
+      <xmax>2425</xmax>
+      <ymax>2231</ymax>
+    </bndbox>
+  </object>
+</annotation>
